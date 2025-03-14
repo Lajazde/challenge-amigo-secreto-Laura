@@ -1,0 +1,1 @@
+Practica para principiantes en programación, se pusieron algunos comentarios antes de unas funciones a fin de identificar el porque se agregaron y en que nos ayudarían, a fin de replicar en algún otro proyecto futuro y para su perfeccionamento posterior.
